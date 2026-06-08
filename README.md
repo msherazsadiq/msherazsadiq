@@ -1,7 +1,9 @@
 <h1 align="center">Muhammad Sheraz Sadiq</h1>
 
 <p align="center">
-  Software Engineer — Android · Web · AI
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00D8FF&center=true&vCenter=true&width=600&lines=Software+Engineer;Android+%7C+iOS+%7C+Web+%7C+AI;Building+scalable%2C+production-ready+systems" alt="Typing SVG" />
+  </a>
 </p>
 
 <p align="center">
@@ -17,7 +19,7 @@
 
 ### About
 
-Software Engineer specializing in Android, Web, and AI-powered solutions. Experienced in building scalable mobile and web applications, implementing ML/NLP models, and delivering production-ready systems.
+Software Engineer specializing in Android, iOS, Web, and AI-powered solutions. Experienced in building scalable mobile and web applications, implementing ML/NLP models, and delivering production-ready systems.
 
 Bachelor of Science in Computer Science — National University of Computer and Emerging Sciences (NUCES). Dean's List (2x) for academic excellence.
 
@@ -28,6 +30,8 @@ Bachelor of Science in Computer Science — National University of Computer and 
 **Languages**
 
 ![Kotlin](https://img.shields.io/badge/Kotlin-1A1A1A?style=flat-square&logo=kotlin&logoColor=7F52FF)
+![Dart](https://img.shields.io/badge/Dart-1A1A1A?style=flat-square&logo=dart&logoColor=0175C2)
+![Swift](https://img.shields.io/badge/Swift-1A1A1A?style=flat-square&logo=swift&logoColor=F05138)
 ![Python](https://img.shields.io/badge/Python-1A1A1A?style=flat-square&logo=python&logoColor=3776AB)
 ![Java](https://img.shields.io/badge/Java-1A1A1A?style=flat-square&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-1A1A1A?style=flat-square&logo=javascript&logoColor=F7DF1E)
@@ -35,6 +39,12 @@ Bachelor of Science in Computer Science — National University of Computer and 
 ![C#](https://img.shields.io/badge/C%23-1A1A1A?style=flat-square&logo=csharp&logoColor=239120)
 ![Go](https://img.shields.io/badge/Go-1A1A1A?style=flat-square&logo=go&logoColor=00ADD8)
 ![Solidity](https://img.shields.io/badge/Solidity-1A1A1A?style=flat-square&logo=solidity&logoColor=white)
+
+**Mobile**
+
+![Flutter](https://img.shields.io/badge/Flutter-1A1A1A?style=flat-square&logo=flutter&logoColor=02569B)
+![Android](https://img.shields.io/badge/Android-1A1A1A?style=flat-square&logo=android&logoColor=3DDC84)
+![iOS](https://img.shields.io/badge/iOS-1A1A1A?style=flat-square&logo=apple&logoColor=white)
 
 **Frameworks & Libraries**
 
@@ -64,26 +74,55 @@ Bachelor of Science in Computer Science — National University of Computer and 
 
 ### Projects
 
-**Sibolab Admin Portal**
-Scalable production-grade laboratory management system. Designed and maintained the full-stack architecture, integrated Shopify order workflows and DHL logistics, implemented Firebase authentication with automated report delivery, and built secure workflows for kit tracking, result generation, and admin operations.
-
-**Mawasmart Portal** — *In Progress*
-Full-scale laboratory and order workflow management platform. Implementing Shopify and DHL integrations, building webhook-driven automation and email workflows, and designing a scalable backend architecture with secure orchestration.
-
-**DermaScan** — *Final Year Project*
-AI-powered Android application for real-time skin disease detection. Implemented an ML-based diagnosis system, integrated an LLM chatbot for assistance, and added nearby doctor recommendations using the Google Maps API.
-
-**Nimbuss**
-Driver monitoring and productivity tracking platform with real-time health and activity monitoring, plus performance analytics for safer driving and operational efficiency.
-
-**Companion Plus**
-Healthcare platform integrating multiple EHR systems. Enabled unified patient record management and improved interoperability and physician workflow efficiency.
-
----
-
-### GitHub Stats
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=msherazsadiq&show_icons=true&hide_border=true&title_color=ffffff&text_color=9f9f9f&icon_color=ffffff&bg_color=0D1117" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=msherazsadiq&layout=compact&hide_border=true&title_color=ffffff&text_color=9f9f9f&bg_color=0D1117" />
-</p>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>Sibolab Admin Portal</h4>
+      <p>Scalable production-grade laboratory management system. Full-stack architecture with Shopify order workflows and DHL logistics, Firebase authentication, automated report delivery, and secure workflows for kit tracking and result generation.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Shopify-1A1A1A?style=flat-square&logo=shopify&logoColor=7AB55C" />
+        <img src="https://img.shields.io/badge/Firebase-1A1A1A?style=flat-square&logo=firebase&logoColor=FFCA28" />
+        <img src="https://img.shields.io/badge/Node.js-1A1A1A?style=flat-square&logo=nodedotjs&logoColor=339933" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>Mawasmart Portal &nbsp;<img src="https://img.shields.io/badge/In%20Progress-0E7490?style=flat-square" /></h4>
+      <p>Full-scale laboratory and order workflow management platform. Shopify and DHL integrations, webhook-driven automation and email workflows, with a scalable backend architecture and secure orchestration.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Webhooks-1A1A1A?style=flat-square&logo=webhooks&logoColor=white" />
+        <img src="https://img.shields.io/badge/n8n-1A1A1A?style=flat-square&logo=n8n&logoColor=EA4B71" />
+        <img src="https://img.shields.io/badge/PostgreSQL-1A1A1A?style=flat-square&logo=postgresql&logoColor=4169E1" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>DermaScan &nbsp;<img src="https://img.shields.io/badge/Final%20Year%20Project-6D28D9?style=flat-square" /></h4>
+      <p>AI-powered Android application for real-time skin disease detection. ML-based diagnosis system, an integrated LLM chatbot for assistance, and nearby doctor recommendations using the Google Maps API.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Android-1A1A1A?style=flat-square&logo=android&logoColor=3DDC84" />
+        <img src="https://img.shields.io/badge/Python-1A1A1A?style=flat-square&logo=python&logoColor=3776AB" />
+        <img src="https://img.shields.io/badge/Google%20Maps-1A1A1A?style=flat-square&logo=googlemaps&logoColor=4285F4" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>Nimbuss</h4>
+      <p>Driver monitoring and productivity tracking platform with real-time health and activity monitoring, plus performance analytics for safer driving and operational efficiency.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Kotlin-1A1A1A?style=flat-square&logo=kotlin&logoColor=7F52FF" />
+        <img src="https://img.shields.io/badge/Firebase-1A1A1A?style=flat-square&logo=firebase&logoColor=FFCA28" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>Companion Plus</h4>
+      <p>Healthcare platform integrating multiple EHR systems. Unified patient record management with improved interoperability and physician workflow efficiency.</p>
+      <p>
+        <img src="https://img.shields.io/badge/.NET-1A1A1A?style=flat-square&logo=dotnet&logoColor=512BD4" />
+        <img src="https://img.shields.io/badge/SQL%20Server-1A1A1A?style=flat-square&logo=microsoftsqlserver&logoColor=CC2927" />
+      </p>
+    </td>
+    <td width="50%" valign="top"></td>
+  </tr>
+</table>
