@@ -78,38 +78,46 @@ Bachelor of Science in Computer Science — National University of Computer and 
   <tr>
     <td width="50%" valign="top">
       <h4>Sibolab Admin Portal</h4>
-      <p>Scalable production-grade laboratory management system. Full-stack architecture with Shopify order workflows and DHL logistics, Firebase authentication, automated report delivery, and secure workflows for kit tracking and result generation.</p>
+      <p>Scalable production-grade laboratory management web platform. Full-stack architecture with Shopify order workflows and DHL logistics, automated report delivery, and secure workflows for kit tracking and result generation.</p>
       <p>
-        <img src="https://img.shields.io/badge/Shopify-1A1A1A?style=flat-square&logo=shopify&logoColor=7AB55C" />
-        <img src="https://img.shields.io/badge/Firebase-1A1A1A?style=flat-square&logo=firebase&logoColor=FFCA28" />
+        <img src="https://img.shields.io/badge/React-1A1A1A?style=flat-square&logo=react&logoColor=61DAFB" />
         <img src="https://img.shields.io/badge/Node.js-1A1A1A?style=flat-square&logo=nodedotjs&logoColor=339933" />
+        <img src="https://img.shields.io/badge/Shopify-1A1A1A?style=flat-square&logo=shopify&logoColor=7AB55C" />
+        <img src="https://img.shields.io/badge/Gmail-1A1A1A?style=flat-square&logo=gmail&logoColor=EA4335" />
+        <img src="https://img.shields.io/badge/AWS-1A1A1A?style=flat-square&logo=amazonaws&logoColor=FF9900" />
       </p>
     </td>
     <td width="50%" valign="top">
-      <h4>Mawasmart Portal &nbsp;<img src="https://img.shields.io/badge/In%20Progress-0E7490?style=flat-square" /></h4>
-      <p>Full-scale laboratory and order workflow management platform. Shopify and DHL integrations, webhook-driven automation and email workflows, with a scalable backend architecture and secure orchestration.</p>
+      <h4>Mawasmart Portal</h4>
+      <p>Full-scale laboratory and order workflow management web platform. Shopify and DHL integrations, webhook-driven automation and email workflows, with a scalable backend architecture and secure orchestration.</p>
       <p>
-        <img src="https://img.shields.io/badge/Webhooks-1A1A1A?style=flat-square&logo=webhooks&logoColor=white" />
-        <img src="https://img.shields.io/badge/n8n-1A1A1A?style=flat-square&logo=n8n&logoColor=EA4B71" />
-        <img src="https://img.shields.io/badge/PostgreSQL-1A1A1A?style=flat-square&logo=postgresql&logoColor=4169E1" />
+        <img src="https://img.shields.io/badge/React-1A1A1A?style=flat-square&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/FastAPI-1A1A1A?style=flat-square&logo=fastapi&logoColor=009688" />
+        <img src="https://img.shields.io/badge/Shopify-1A1A1A?style=flat-square&logo=shopify&logoColor=7AB55C" />
+        <img src="https://img.shields.io/badge/Gmail-1A1A1A?style=flat-square&logo=gmail&logoColor=EA4335" />
+        <img src="https://img.shields.io/badge/AWS-1A1A1A?style=flat-square&logo=amazonaws&logoColor=FF9900" />
       </p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h4>DermaScan &nbsp;<img src="https://img.shields.io/badge/Final%20Year%20Project-6D28D9?style=flat-square" /></h4>
-      <p>AI-powered Android application for real-time skin disease detection. ML-based diagnosis system, an integrated LLM chatbot for assistance, and nearby doctor recommendations using the Google Maps API.</p>
+      <p>AI-powered Android application for real-time skin disease detection. CNN-based diagnosis model, an integrated LLM chatbot for assistance, and nearby doctor recommendations using the Google Maps API.</p>
       <p>
-        <img src="https://img.shields.io/badge/Android-1A1A1A?style=flat-square&logo=android&logoColor=3DDC84" />
+        <img src="https://img.shields.io/badge/Kotlin-1A1A1A?style=flat-square&logo=kotlin&logoColor=7F52FF" />
         <img src="https://img.shields.io/badge/Python-1A1A1A?style=flat-square&logo=python&logoColor=3776AB" />
+        <img src="https://img.shields.io/badge/CNN-1A1A1A?style=flat-square&logo=tensorflow&logoColor=FF6F00" />
+        <img src="https://img.shields.io/badge/Firebase-1A1A1A?style=flat-square&logo=firebase&logoColor=FFCA28" />
         <img src="https://img.shields.io/badge/Google%20Maps-1A1A1A?style=flat-square&logo=googlemaps&logoColor=4285F4" />
       </p>
     </td>
     <td width="50%" valign="top">
       <h4>Nimbuss</h4>
-      <p>Driver monitoring and productivity tracking platform with real-time health and activity monitoring, plus performance analytics for safer driving and operational efficiency.</p>
+      <p>Driver health and productivity tracking platform with real-time activity monitoring and performance analytics for safer driving and operational efficiency.</p>
       <p>
         <img src="https://img.shields.io/badge/Kotlin-1A1A1A?style=flat-square&logo=kotlin&logoColor=7F52FF" />
+        <img src="https://img.shields.io/badge/iOS-1A1A1A?style=flat-square&logo=apple&logoColor=white" />
+        <img src="https://img.shields.io/badge/HealthKit-1A1A1A?style=flat-square&logo=apple&logoColor=white" />
         <img src="https://img.shields.io/badge/Firebase-1A1A1A?style=flat-square&logo=firebase&logoColor=FFCA28" />
       </p>
     </td>
@@ -117,10 +125,10 @@ Bachelor of Science in Computer Science — National University of Computer and 
   <tr>
     <td width="50%" valign="top">
       <h4>Companion Plus</h4>
-      <p>Healthcare platform integrating multiple EHR systems. Unified patient record management with improved interoperability and physician workflow efficiency.</p>
+      <p>Doctor–patient healthcare app integrating multiple EHR systems. Unified patient record management with improved interoperability and physician workflow efficiency.</p>
       <p>
-        <img src="https://img.shields.io/badge/.NET-1A1A1A?style=flat-square&logo=dotnet&logoColor=512BD4" />
-        <img src="https://img.shields.io/badge/SQL%20Server-1A1A1A?style=flat-square&logo=microsoftsqlserver&logoColor=CC2927" />
+        <img src="https://img.shields.io/badge/Kotlin-1A1A1A?style=flat-square&logo=kotlin&logoColor=7F52FF" />
+        <img src="https://img.shields.io/badge/EHR-1A1A1A?style=flat-square&logo=hl7&logoColor=E2231A" />
       </p>
     </td>
     <td width="50%" valign="top"></td>
